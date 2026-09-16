@@ -1,0 +1,23 @@
+{
+  "repo": "displayfusion-pro",
+  "product": "DisplayFusion Pro",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "multi-monitor",
+  "topics": [
+    "displayfusion-pro",
+    "per-monitor-taskbar",
+    "snap-split-windows",
+    "displayfusion-2026",
+    "how-to-install-displayfusion",
+    "displayfusion-desktop-package",
+    "wallpaper-span-suite",
+    "gap-profile-tools",
+    "wide-desk-ops",
+    "displayfusion-pro-edition"
+  ],
+  "site": "toolix.me"
+}
